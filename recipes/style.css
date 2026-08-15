@@ -1,0 +1,31 @@
+body {
+  background: #8FBC8F;
+  font-family: "Times New Roman", Arial, Verdana, Tahoma, "Trebuchet MS", Georgia, Garamond, "Courier New", "Brush Script MT";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Brush Script MT", Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", Arial;
+  color: #FFF4BF;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Brush Script MT", Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", Arial;
+}
+
+li {
+  font-family: Arial, Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", "Brush Script MT";
+  text-align: start;
+}
+
+button {
+  padding: 5px;
+  background-color: #CC3A63;
+}
+
+a {
+  text-decoration: none;
+  color: #F7E49B;
+}
