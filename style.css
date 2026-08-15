@@ -1,8 +1,7 @@
 body {
-  background: #8FBC8F;
+  background: #D6B4Fc;
   text-align: center;
   font-family: "Times New Roman", Arial, Verdana, Tahoma, "Trebuchet MS", Georgia, Garamond, "Courier New", "Brush Script MT";
-
 }
 
 h1 {
@@ -10,13 +9,25 @@ h1 {
   color: #FFF4BF;
 }
 
-ul {
-  font-family: Arial, Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", "Brush Script MT";
-  list-style-type: none;
-  
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 50px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.tile {
+  background: #91e2d5;
+  width: 120px;
+  height: 150px;
+  padding: 15px;
+  text-align: center;
+  border: 2px outset yellow;
 }
 
 a {
   text-decoration: none;
-  color: #CC3A63;
+  color: red;
 }
