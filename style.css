@@ -1,0 +1,22 @@
+body {
+  background: #8FBC8F;
+  text-align: center;
+  font-family: "Times New Roman", Arial, Verdana, Tahoma, "Trebuchet MS", Georgia, Garamond, "Courier New", "Brush Script MT";
+
+}
+
+h1 {
+  font-family: "Brush Script MT", Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", Arial;
+  color: #FFF4BF;
+}
+
+ul {
+  font-family: Arial, Verdana, Tahoma, "Trebuchet MS", "Times New Roman", Georgia, Garamond, "Courier New", "Brush Script MT";
+  list-style-type: none;
+  
+}
+
+a {
+  text-decoration: none;
+  color: #CC3A63;
+}
